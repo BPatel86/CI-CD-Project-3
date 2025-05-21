@@ -40,11 +40,11 @@ This project sets up a simple but effective CI/CD pipeline using **Jenkins**, **
    - Start a new container with the updated application
 
 5. **Access Web App**  
-   The Java application is available at:  http://<Docker_Host_Public_IP>:8090/webapp
+   - The Java application is available at:  http://<Docker_Host_Public_IP>:8090/webapp
 
 **New Image and Container created on a Docker host through Jenkins Jobs.**
-Verified through the following command:
-    docker ps
-    docker images
+- Verified through the following command:
+  - docker ps
+  - docker images
 
 
