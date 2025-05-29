@@ -1,8 +1,8 @@
-# CI/CD Deployment with Jenkins, Docker, and Tomcat on AWS
+# CI/CD Deployment with Jenkins, Docker, and Tomcat
 
 ## 📘 Overview
 
-This project sets up a simple but effective CI/CD pipeline using **Jenkins**, **Docker**, and **Apache Tomcat** on **AWS EC2** instances. The goal is to automate the entire software delivery process — from source code commit to application deployment in a Dockerized Tomcat container.
+This project sets up a simple but effective CI/CD pipeline using **Jenkins**, **Docker**, **Apache Tomcat** and **AWS EC2** instances. The goal is to automate the entire software delivery process — from source code commit to application deployment in a Dockerized Tomcat container.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/1602326a-94fc-4aa4-80ed-b55eca7db634" />
 
